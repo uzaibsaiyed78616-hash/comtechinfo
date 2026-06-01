@@ -71,11 +71,10 @@ The backend architecture enforces strict system boundaries, structuring hardware
     └── server.js              # Monolithic service root bootstrapping application modules
 
 
-## System Engineering Profile
-Project Identity: ChatWay Automation Ecosystem
 
-Deployment Status: Production-Ready / Fully Deployed
+💻 System Engineering Profile
 
-Developed By: Uzaib Saiyad
-
-Contact Email: uzaibsaiyed78616@gmail.com
+• Project Identity: ChatWay Automation Ecosystem
+• Deployment Status: Production-Ready / Fully Deployed
+• Developed By: Uzaib Saiyad
+• Contact Email: uzaibsaiyed78616@gmail.com
