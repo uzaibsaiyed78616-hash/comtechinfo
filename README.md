@@ -68,7 +68,7 @@ The backend architecture enforces strict system boundaries, structuring hardware
     ├── controllers/           # Core business logic processing incoming requests
     ├── models/                # Rigid Mongoose schemas (User.js, Message.js)
     ├── routes/                # Endpoint binders mapping network flows to controllers
-    └── server.js              # Monolithic service root bootstrapping application modules
+    └── server.js              # Monolithic service root bootstrapping application modules'''
 
 ## System Engineering Profile
   "Project": "ChatWay Automation Ecosystem",
